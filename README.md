@@ -1,2 +1,2 @@
 AED I  
-  Exercícios realizados em C na plataforma beecrowd
+  Exercícios realizados em C no Beecrowd
