@@ -1,3 +1,2 @@
-AED I
-
-Exercícios realizados na plataforma beecrowd
+AED I  
+  Exercícios realizados em C na plataforma beecrowd
